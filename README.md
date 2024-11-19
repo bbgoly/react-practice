@@ -1,9 +1,4 @@
-# Cosden Solutions Example Code
+# react-practice
+Repository containing some of the test projects that I used to learn about React development. Each branch corresponds to a different project.
 
-This repository provides the code shown in a specific video.
-
-## Instructions
-
-1. Install dependencies by running `pnpm install` (or `npm`/`yarn`)
-2. Run in dev mode by running `pnpm run dev` (or `npm`/`yarn`)
-3. Enjoy and learn!
+# Filtering data in React
